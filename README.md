@@ -1,9 +1,9 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/CyberSecSolutions">System Engineer</a>, <a href="https://tryhackme.com/p/Pavel19">Cybersecurity Enthusiast</a>
 
-<h2>👨‍💻 System Engineer Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Sophos Firewall Home Edition</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Firewall Projects</b>
+  - [Sophos Home Edition](https://github.com/CyberSecSolutions/Sophos)
 
 <h2> 🤳 Connect with me:</h2>
 
