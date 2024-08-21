@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/CyberSecSolutions">System Engineer</a>, <a href="https://tryhackme.com/p/Pavel19">Cybersecurity Enthusiast</a>
+
+<h2>👨‍💻 System Engineer Projects:</h2>
+
+- <b>Sophos Firewall Home Edition</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Connect with me:</h2>
+
+<a href="mailto:cybersecsolution@proton.me">
+  <img align="left" alt="ProtonMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
+</a>
+
+
 
 <!--
-**CyberSecSolutions/CyberSecSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
