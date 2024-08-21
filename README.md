@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/CyberSecSolutions">System Engineer</a>, <a href="https://tryhackme.com/p/Pavel19">Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/CyberSecSolutions">System Engineer</a> and <a href="https://tryhackme.com/p/Pavel19">Cybersecurity Enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
