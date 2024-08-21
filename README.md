@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Firewall Projects</b>
+  - [OPNSense](https://github.com/CyberSecSolutions/opnsense)
   - [Sophos Home Edition](https://github.com/CyberSecSolutions/Sophos)
 
 <h2> 🤳 Connect with me:</h2>
